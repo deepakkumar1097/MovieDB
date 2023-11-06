@@ -1,0 +1,30 @@
+.counter-container {
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+  align-items: center;
+}
+.like-dislike-button,
+.edit-delete-button {
+  display: flex;
+  gap: 25px;
+}
+.likes-dislikes {
+  width: 35px;
+  height: 35px;
+  /* font-family: "Bebas Neue", cursive; */
+  border: none;
+  border-radius: 50%;
+  margin-top: 20px;
+  cursor: pointer;
+}
+.css-i4bv87-MuiSvgIcon-root {
+  width: 0.8em !important;
+}
+.css-106c1u2-MuiBadge-badge,
+.css-to4x1n-MuiBadge-badge,
+.css-hork0d-MuiBadge-badge,
+.css-y8aa97-MuiBadge-badge {
+  top: 16px !important;
+  left: 3px !important;
+}

@@ -1,0 +1,36 @@
+.header {
+  margin-bottom: 20px;
+  width: 100%;
+
+  /*position: fixed;
+   top: 0;
+  left: 0;
+  transition: 0.6s;
+  background-color: white; 
+  z-index: 100000;*/
+}
+/*.header-logo {
+  display: flex;
+  align-items: center;
+}
+.header-img {
+  width: 70px;
+  height: 70px;
+  border-radius: 20%;
+  object-fit: cover;
+  margin-left: 20px;
+}
+.header-title {
+  color: #1818183f;
+  margin-left: 20px;
+} */
+.nav-options {
+  display: flex;
+  gap: 20px;
+  text-decoration: none;
+}
+.nav-options > a {
+  text-decoration: none;
+  font-size: 1.2rem;
+  color: #181818cb;
+}
